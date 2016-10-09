@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HEAVENLY_KERALA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hill_station">HILL STATION</string>
+    <string name="adventure">ADVENTURE</string>
+    <string name="religious">RELIGIOUS</string>
+    <string name="beaches">BEACHES</string>
+</resources>
